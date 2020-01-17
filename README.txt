@@ -23,3 +23,10 @@ hacemos la barra de navegación en partials
 añadimos la busqueda de autores
 
 https://www.youtube.com/watch?v=qj2oDkvc4dQ&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=7
+Creamos las rutas y vistas de libros
+
+13:25 -->
+
+
+codigo
+https://github.com/WebDevSimplified/Mybrary
